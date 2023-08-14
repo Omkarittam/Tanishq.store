@@ -1,0 +1,2 @@
+# Tanishq.store
+Tanishq Jwellers 
